@@ -1,0 +1,41 @@
+{
+    "name": "roland/crud",
+    "description": "This is a CRUD generator for Laravel 5.4",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Roland Alla",
+            "email": "alla.roland@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Roland\\Crud\\": "src/"
+        }
+    }
+}
+
+{
+    "name": "janku/crud",
+    "description": "This is a CRUD generator for Laravel 5.4",
+    "license": "MIT - original author - Roland Alla email: alla.roland@gmail.com",
+    "authors": [
+        {
+            "name": "Guilherme Janku Achcar",
+            "email": "guiachcar@hotmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Roland\\Crud\\": "src/"
+        }
+    },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guiachcar/LaravelCrudEdit.git"
+  }
+}
